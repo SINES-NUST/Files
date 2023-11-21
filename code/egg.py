@@ -2,7 +2,7 @@
 
 import os
 
-data = input("Enter file name: ")
+data = input()
 
 test_data = os.path.join("data", data) # call this variable in the function you make
 
