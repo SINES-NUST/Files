@@ -1,5 +1,5 @@
 #!/usr/bin/env python
 
-data = input("Enter file name: ")
+data = input()
 
 # Your code after this line - do not change anything above this line
