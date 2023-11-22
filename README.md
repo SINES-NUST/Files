@@ -18,7 +18,7 @@ Create a Python script (`egg.py`) that handles invalid file names gracefully.
 ### Instructions:
 - Use the provided `egg.py` file.
 - The script should take a file name as input.
-- If the file exists, print the number of lines in the file.
+- If the file exists, print the number of words in the file.
 - If the file does not exist, print "Na na Bo Bo doesn't exist."
 
 ## Exercise 3: Count Vowels in Lowercase String (count_vowels.py)
@@ -27,7 +27,7 @@ Write a Python script (`count_vowels.py`) to count vowels in a given lowercase s
 
 ### Instructions:
 - Use the provided `count_vowels.py` file.
-- The script should take a string as input, convert it to lowercase, and then count the vowels.
+- The script should take a file as input, convert it to lowercase, and then count the vowels.
 - Print the count of vowels in the string.
 
 ## Important Note:
